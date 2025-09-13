@@ -1,24 +1,18 @@
 {
-	"name": "fcc-learn-npm-package-json",
-	"author": "ShiroShii",
-	"dependencies": {
-		"express": "^4.14.0"
-	},
-	"main": "server.js",
-	"scripts": {
-		"start": "node server.js"
-	},
-	"repository": {
-		"type": "git",
-		"url": "git+https://github.com/freeCodeCamp/boilerplate-npm.git"
-	},
-	"version": "1.0.0",
-	"description": "This is the boilerplate code for the Managing Packages With npm Challenges. Instructions for working on these challenges start at https://www.freecodecamp.org/learn/back-end-development-and-apis/managing-packages-with-npm/",
-	"keywords": [],
-	"license": "ISC",
-	"type": "commonjs",
-	"bugs": {
-		"url": "https://github.com/freeCodeCamp/boilerplate-npm/issues"
-	},
-	"homepage": "https://github.com/freeCodeCamp/boilerplate-npm#readme"
+  "name": "fcc-learn-npm-package-json",
+  "author": "ShiroShii",
+  "dependencies": {
+    "express": "^4.14.0"
+  },
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": "8.11.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://idontknow/todo.git"
+  }
 }
