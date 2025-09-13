@@ -1,6 +1,6 @@
 {
 	"name": "fcc-learn-npm-package-json",
-	"auythor": "ShiroShii",
+	"author": "ShiroShii",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
@@ -15,7 +15,6 @@
 	"version": "1.0.0",
 	"description": "This is the boilerplate code for the Managing Packages With npm Challenges. Instructions for working on these challenges start at https://www.freecodecamp.org/learn/back-end-development-and-apis/managing-packages-with-npm/",
 	"keywords": [],
-	"author": "ShiroShii",
 	"license": "ISC",
 	"type": "commonjs",
 	"bugs": {
